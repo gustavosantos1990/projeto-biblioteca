@@ -1,7 +1,12 @@
 @charset="UTF-8";
 
-  body{
+div#interface{
 
-  background-image: url("imagens/background.jpeg");
+	background-color: rgba(0,0,0,0.5)
+	background-image: url("imagens/background.jpeg");
 
-  }
+}
+
+body{
+	background-color: rgba(0,0,0,0.5)
+}
