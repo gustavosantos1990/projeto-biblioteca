@@ -1,12 +1,14 @@
 @charset="UTF-8";
 
 div#interface{
-
-	background-color: rgba(0,0,0,0.5)
-	background-image: url("imagens/background.jpeg");
-
+	width: 900px;
+	background-color: rgb(0,0,0)
+	margin: -20px auto 0px auto;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+	padding: 10px 10px 10px 10px;
 }
 
 body{
-	background-color: rgba(0,0,0,0.5)
+	background-image: url("imagens/background.jpeg");
 }
+
