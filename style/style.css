@@ -1,7 +1,7 @@
 @charset="UTF-8";
 
 div#interface{
-	width: 900px;
+	width: 700px;
 	background-color: rgb(0,0,0)
 	margin: -20px auto 0px auto;
 	box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
